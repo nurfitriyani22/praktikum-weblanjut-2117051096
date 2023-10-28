@@ -1,5 +1,8 @@
 <?php
 
+use App\Controllers\Home;
+use App\Controllers\UserController;
+
 use CodeIgniter\Router\RouteCollection;
 
 /**
